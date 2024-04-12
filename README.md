@@ -12,7 +12,7 @@ Pour executer en local le projet Open Transport, vous devez au préalable instal
 
 ```
 Mettre en place l'environnement necessaire.
-
+ajout du text pour creer un conflit
 ### Installation
 
 Voici les étapes à suivre pour avoir un environnement de développement et de test opérationnel :
