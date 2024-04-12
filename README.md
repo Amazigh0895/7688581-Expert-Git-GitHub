@@ -12,7 +12,11 @@ Pour executer en local le projet Open Transport, vous devez au préalable instal
 
 ```
 Mettre en place l'environnement necessaire.
-ff
+<<<<<<< HEAD
+
+=======
+cc
+>>>>>>> 62194af901035b8222bc151a688790b9fdb7cf3f
 
 ```
 
